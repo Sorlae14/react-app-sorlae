@@ -1,5 +1,6 @@
 export const sculptureList = [
     {
+        id:1,
      name :'ฮาย',
      band:'Paper Planes',
      description:'เป็นนักร้องนำในวง Paper Planes ',
@@ -7,7 +8,7 @@ export const sculptureList = [
      alt:'เป็นนักร้องนำในวง Paper Planes'
 
     },
-    {
+    {   id:2,
         name :'เซน',
         band:'Paper Planes',
         description:'เป็นมือเบสในวง Paper Planes ',
@@ -16,6 +17,7 @@ export const sculptureList = [
    
        },
        {
+        id:3,
         name :'หยก',
         band:'Paper Planes',
         description:'เป็นอดีตมือกีต้าร์ ในวง Paper Planes ',
@@ -24,6 +26,7 @@ export const sculptureList = [
    
        },
        {
+        id:4,
         name :'สรัน',
         band:'D!EOUT',
         description:'เป็นRapper ที่คว้ารางวัล The Rapper 2020 Civil War ในวัย15ปี',
