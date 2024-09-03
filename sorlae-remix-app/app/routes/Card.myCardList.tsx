@@ -69,6 +69,7 @@ export default function CardLists() {
                             <th className="border border-gray-300 p-2">ชื่อ-สกุล</th>
                             <th className="border border-gray-300 p-2">ตำแหน่ง</th>
                             <th className="border border-gray-300 p-2">รายละเอียด</th>
+                            
                         </tr>
                     </thead>
                     <tbody>
